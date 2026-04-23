@@ -1,6 +1,6 @@
 # Anthronia
 
-A minimal Unciv civilization mod for the custom civilization `Anthronia`.
+A minimal Unciv civilization mod containing two custom civilizations.
 
 Included:
 
@@ -17,6 +17,16 @@ Civilization setup:
   - `innerColor`: `[21, 21, 21]`
 - Cities:
   - `Klaudfield`
+
+Second civilization:
+
+- Name: `Opennia`
+- Leader: `Saman`
+- Colors:
+  - `outerColor`: `[21, 21, 21]`
+  - `innerColor`: `[255, 255, 255]`
+- Cities:
+  - `Gepetti`
 
 Design notes:
 

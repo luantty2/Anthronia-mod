@@ -19,5 +19,26 @@
     "cities": [
       "Klaudfield"
     ]
+  },
+  {
+    "name": "Opennia",
+    "leaderName": "Saman",
+    "adjective": ["Opennian"],
+    "preferredVictoryType": "Neutral",
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "denounced": "",
+    "introduction": "",
+    "neutralHello": "",
+    "hateHello": "",
+    "tradeRequest": "",
+    "outerColor": [21, 21, 21],
+    "innerColor": [255, 255, 255],
+    "cities": [
+      "Gepetti"
+    ]
   }
 ]
