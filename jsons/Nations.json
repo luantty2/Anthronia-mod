@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Anthronia",
+    "leaderName": "Danrio A.",
+    "adjective": ["Anthronian"],
+    "preferredVictoryType": "Neutral",
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "denounced": "",
+    "introduction": "",
+    "neutralHello": "",
+    "hateHello": "",
+    "tradeRequest": "",
+    "outerColor": [205, 98, 71],
+    "innerColor": [21, 21, 21],
+    "cities": [
+      "Klaudfield"
+    ]
+  }
+]
