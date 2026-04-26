@@ -1,8 +1,8 @@
 [
   {
-    "name": "Anthronia",
+    "name": "額突魯披亞",
     "leaderName": "Danrio A.",
-    "adjective": ["Anthronian"],
+    "adjective": ["額突魯披亞"],
     "preferredVictoryType": "Neutral",
     "startIntroPart1": "",
     "startIntroPart2": "",
@@ -21,9 +21,9 @@
     ]
   },
   {
-    "name": "Opennia",
+    "name": "厄本阿夷",
     "leaderName": "Saman",
-    "adjective": ["Opennian"],
+    "adjective": ["厄本阿夷"],
     "preferredVictoryType": "Neutral",
     "startIntroPart1": "",
     "startIntroPart2": "",

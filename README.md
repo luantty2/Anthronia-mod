@@ -1,16 +1,17 @@
-# Anthronia
+# 額突魯披亞 / 厄本阿夷
 
 A minimal Unciv civilization mod containing two custom civilizations.
 
 Included:
 
 - `jsons/Nations.json`
-- `Images/NationIcons/Anthronia.png`
+- `Images/NationIcons/額突魯披亞.png`
+- `Images/NationIcons/厄本阿夷.png`
 - atlas files required by the official example-based structure
 
 Civilization setup:
 
-- Name: `Anthronia`
+- Name: `額突魯披亞`
 - Leader: `Danrio A.`
 - Colors:
   - `outerColor`: `[205, 98, 71]`
@@ -20,7 +21,7 @@ Civilization setup:
 
 Second civilization:
 
-- Name: `Opennia`
+- Name: `厄本阿夷`
 - Leader: `Saman`
 - Colors:
   - `outerColor`: `[21, 21, 21]`
