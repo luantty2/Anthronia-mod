@@ -1,17 +1,17 @@
-# 額突魯披亞 / 厄本阿夷
+# 额突鲁披亚 / 厄本阿夷
 
 A minimal Unciv civilization mod containing two custom civilizations.
 
 Included:
 
 - `jsons/Nations.json`
-- `Images/NationIcons/額突魯披亞.png`
+- `Images/NationIcons/额突鲁披亚.png`
 - `Images/NationIcons/厄本阿夷.png`
 - atlas files required by the official example-based structure
 
 Civilization setup:
 
-- Name: `額突魯披亞`
+- Name: `额突鲁披亚`
 - Leader: `Danrio A.`
 - Colors:
   - `outerColor`: `[205, 98, 71]`
