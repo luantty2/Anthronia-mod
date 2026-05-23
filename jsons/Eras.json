@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ancient era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Classical era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Medieval era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Renaissance era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Industrial era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Modern era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Atomic era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Information era",
+    "startingMilitaryUnitCount": 0
+  },
+  {
+    "name": "Future era",
+    "startingMilitaryUnitCount": 0
+  }
+]

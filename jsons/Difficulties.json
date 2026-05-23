@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Settler",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "Chieftain",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "Warlord",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "Prince",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "King",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "Emperor",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "Immortal",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  },
+  {
+    "name": "Deity",
+    "playerBonusStartingUnits": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": []
+  }
+]
