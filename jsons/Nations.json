@@ -40,5 +40,47 @@
     "cities": [
       "察得及彼第"
     ]
+  },
+  {
+    "name": "谷国",
+    "leaderName": "佩季",
+    "adjective": ["谷国"],
+    "preferredVictoryType": "Neutral",
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "denounced": "",
+    "introduction": "",
+    "neutralHello": "",
+    "hateHello": "",
+    "tradeRequest": "",
+    "outerColor": [66, 133, 244],
+    "innerColor": [120, 24, 32],
+    "cities": [
+      "介美泥"
+    ]
+  },
+  {
+    "name": "叉国",
+    "leaderName": "伊洛",
+    "adjective": ["叉国"],
+    "preferredVictoryType": "Neutral",
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "denounced": "",
+    "introduction": "",
+    "neutralHello": "",
+    "hateHello": "",
+    "tradeRequest": "",
+    "outerColor": [0, 0, 0],
+    "innerColor": [0, 0, 0],
+    "cities": [
+      "瓜拉克"
+    ]
   }
 ]
